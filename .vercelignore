@@ -1,0 +1,8 @@
+.git
+.gitignore
+.env.example
+storage/*.key
+tests/
+node_modules/
+.idea/
+.vscode/
